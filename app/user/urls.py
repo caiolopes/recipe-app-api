@@ -2,6 +2,7 @@ from django.urls import path
 from user import views
 
 
+# for the reverse function
 app_name = 'user'
 
 urlpatterns = [
